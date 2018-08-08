@@ -1,0 +1,26 @@
+Water::4.00::7
+Wilted Lettuce::0.50::11
+Nylons::1.25::3
+Broken Laptop::3.50::2
+Lint::1.25::7
+Empty Paper Bag::0.13::11
+Almond Joy::1.25::9
+Chicken-In-A-Can::25.77::18
+Road Salt::131.11::2
+Purified Water::50.00::3
+Beetle::7.00::6
+Expired Peanut Butter::0.33::7
+Dried Out Marker::3.50::0
+Rotten Orange::0.01::7
+Beanie Weenie::0.50::2
+Rice::1.01::3
+Hair::0.13::11
+Fudge::0.75::0
+Dryer Lint::7.83::13
+Black Tea::1.50::11
+Pencils::4.20::5
+Wriggling Caterpillar::2.75::2
+Measuring Tape::0.13::10
+Used Laptop::1.25::9
+Green Tea::3.00::5
+Pens::2.13::5
